@@ -1,0 +1,32 @@
+.bg-nav{
+    background: #5D4157;  
+    background: -webkit-linear-gradient(to right, #A8CABA, #5D4157);  
+    background: linear-gradient(to right, #A8CABA, #5D4157); 
+    }
+
+.mt-100{
+    margin-top:100px;
+}
+
+.bg-navigation{
+    background: #00416A;  
+    background: -webkit-linear-gradient(to right, #E4E5E6, #00416A);  
+    background: linear-gradient(to right, #E4E5E6, #00416A); 
+
+    }
+
+.bg-col{
+    background: #16A085;  
+    background: -webkit-linear-gradient(to right, #F4D03F, #16A085); 
+    background: linear-gradient(to right, #F4D03F, #16A085); 
+   
+    }
+
+.bg-all{
+    background: #ED4264; 
+background: -webkit-linear-gradient(to right, #FFEDBC, #ED4264);  
+background: linear-gradient(to right, #FFEDBC, #ED4264); 
+}
+
+
+
